@@ -1,1 +1,1 @@
-console.log("Bubai")
+console.log("Bubai");
