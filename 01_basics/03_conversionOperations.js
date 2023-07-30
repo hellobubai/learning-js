@@ -20,5 +20,20 @@
 // let isLoggedIn = 1 // => true
 // let isLoggedIn = 0 // => false
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
+
+
+
+// ********************* Operations **********************
+
+let number = 2
+
+// console.log(2+2); 2 plus 2
+// console.log(2-2); 2 minus 2
+// console.log(2*2); 2 multiply by 2
+// console.log(2**3); 2 to the power 3
+// console.log(2/2); Division of 2 and 2
+// console.log(2%2); Remainer Of 2 * 2
+
+ 
